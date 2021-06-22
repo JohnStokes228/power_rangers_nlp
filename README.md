@@ -10,3 +10,11 @@ This project aims to investigate text generation, in particular a popular model 
 I also did some more basic EDA as can never practice that enough but to be hoenst it wasnt at all relevant or helpful.
 
 The resultant model was supprisingly successful with absolute bare minimum of effort, outputs samples can be found in the 'samples' folder. 
+highlights include:
+
+- the blue ranger repeatedly getting married
+- the black ranger flirting with criminality
+- repeated references to some character named matthew
+- a supprisingly well written finale
+
+overall fairly happy with how this one turned out :)
